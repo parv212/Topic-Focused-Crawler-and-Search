@@ -1,1 +1,5 @@
 # Topic-Focused-Crawler-and-Search
+
+The project is a focused crawler and search system specifically designed to target content related to Apple technology. It involves the development of a web crawler that selectively gathers documents from the internet, with the goal of accumulating 4000 unique documents. These documents are then organized into an Elastic Search cluster. The crawler operates with a keen focus on keywords and in-link counts, ensuring that the most relevant and authoritative content is prioritized.
+
+To adhere to standard web crawling protocols and ensure efficient operation, the crawler respects politeness policies and makes use of robots.txt. For the processing and extraction of data from the web documents, the project employs Beautiful Soup, a Python library known for its efficiency in parsing HTML and XML documents. This targeted approach in web crawling and search is designed to offer a more relevant and efficient alternative to general search engines, particularly for users seeking specific information within the realm of Apple technology.
